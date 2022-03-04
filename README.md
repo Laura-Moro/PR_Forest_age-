@@ -1,2 +1,2 @@
-# PR_LandUse_Change 
-Land use and change and forets cover change in the Caribean Isalnd of Puerto Rico 
+# PR_Forest_Age 
+Forest cover chnage and forest age in Puerto RIco  
